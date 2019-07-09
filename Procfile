@@ -1,1 +1,1 @@
-web: gunicoin app:app
+web: gunicoin app_test:app
